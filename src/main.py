@@ -3,7 +3,6 @@ c2 = "Buzz"
 r1 = 3
 r2 = 5
 cr = ""
-
 count = 0
 try:
     limit = int(input("Limit:\n>"))
